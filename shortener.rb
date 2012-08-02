@@ -17,7 +17,7 @@ configure do
 
   $redis = Redis.new
   $len = 5
-  $url = "http://shorten.hypeno.de"
+  $url = "YOUR_URL_HERE"
   $port = "80"
   $baseurl = constr_url($url, $port)
 end
