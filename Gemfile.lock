@@ -4,7 +4,7 @@ GEM
     daemons (1.1.8)
     eventmachine (0.12.10)
     rack (1.4.1)
-    rack-protection (1.2.0)
+    rack-protection (1.5.5)
       rack
     redis (3.0.1)
     shotgun (0.9)
